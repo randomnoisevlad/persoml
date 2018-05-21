@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+*.zip
 
 # Distribution / packaging
 .Python
@@ -24,6 +25,11 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+temp/
+loaded_images/
+tits2tits_masked/
+__MACOSX/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template

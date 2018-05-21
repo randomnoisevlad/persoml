@@ -264,3 +264,10 @@ class cyclegan(object):
                 '..' + os.path.sep + image_path)))
             index.write("</tr>")
         index.close()
+
+
+    def init_load(self, args):
+        init_op = tf.global_variables_initializer()
+        self.sess.run(init_op)
+
+        self.load(args['checkpoint_dir'])
