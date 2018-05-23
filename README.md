@@ -2,6 +2,8 @@
 
 Project for undressing cyclegan. You can test how it works using telegram bot - __@tunboxingbot__.
 
+Description on russian can be found [here](https://neurohive.io/projects/nsfw-images-generation-dressing-undressing/) 
+
 ![cycleboxing](https://i.imgur.com/Px6yhw7.png)
 
 
