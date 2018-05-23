@@ -1,6 +1,10 @@
 # personml
 
-Project for unboxing cyclegan. You can test how it works using telegram bot - @tunboxingbot.
+Project for undressing cyclegan. You can test how it works using telegram bot - __@tunboxingbot__.
+
+![cycleboxing](https://i.imgur.com/Px6yhw7.png)
+
+
 
 Code is very messy due to limited amount of time. Will be cleaned a bit later.
 
@@ -16,3 +20,5 @@ Code is very messy due to limited amount of time. Will be cleaned a bit later.
 
 ### Dataset:
 -- Dataset for training can be downloaded [here](https://yadi.sk/d/hW7nDfaI3WJDLk)
+
+
